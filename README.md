@@ -51,6 +51,7 @@ For Software:
 # Installation
 ```powershell
 .\.venv\Scripts\Activate.ps1
+```
 
 # Build Photos
 <img width="1917" height="877" alt="Screenshot 2026-09-12 050101" src="https://github.com/user-attachments/assets/9fdaeb8a-ef8f-4e94-9793-584f7d04ae3a" />
